@@ -1,8 +1,5 @@
 # Arsalan-Ghassemi
-Administrateur système DevOps 
 # 👋 Administrateur Système DevOps
-
-🎓 Titre visé : TP Administrateur Système DevOps – RNCP 36061
 
 ## 🔧 Compétences
 - Administration Linux
